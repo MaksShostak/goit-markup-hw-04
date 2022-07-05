@@ -695,6 +695,7 @@ header {
 .clients {
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 
 .client-logo:not(:last-child) {
