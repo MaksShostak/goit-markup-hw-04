@@ -447,7 +447,7 @@ header {
 
 .navigation {
   display: flex;
-  align-items: baseline;
+  align-items: center;
 }
 .site-nav {
   display: flex;
